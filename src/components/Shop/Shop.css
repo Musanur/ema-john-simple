@@ -1,9 +1,9 @@
-.shop-container{
+.global-container{
     display: flex;
 }
 
 .product-container{
-    width: 75%;
+    width: 70%;
     margin-left: 90px;
     margin-right: 8px;
     border-right: 2px solid lightgray;

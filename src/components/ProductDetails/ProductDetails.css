@@ -1,0 +1,16 @@
+.ProductDetails{
+    background-color: #000000;
+    height: 514px;
+}
+
+.ProductDetails h1{
+    text-align: center;
+    padding: 10px;
+    color:#000;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-bottom: 2px solid lightgray;
+    border-top: 2px solid lightgray;
+    background-color: #fff;
+
+}
